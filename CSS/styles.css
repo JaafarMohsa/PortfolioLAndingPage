@@ -40,6 +40,12 @@ p.author {
   text-decoration-style: solid;
   text-size: 16px;
   text-align: left;
+  float:left;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+  background-color: white;
+  padding: 12px;
+  font-style: italic;
 
 }
 .photo {
@@ -47,4 +53,18 @@ p.author {
 }
 .newinfo {
   color: red ;
+}
+.projects {
+  color: black;
+  background-color: white;
+  float: right;
+  padding: 20px;
+  font-style: italic;
+}
+li a {
+  font-size:
+  font-style:italic;
+  font-family: cursive;
+  font-weight:bold;
+  background-color: Gold;
 }
