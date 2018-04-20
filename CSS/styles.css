@@ -1,0 +1,47 @@
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: black;
+}
+
+body {
+  background-image: url("../images/Background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color:black;
+}
+.intro {
+  font-style: italic;
+  color: black;
+  text-size: 12px;
+  text-align:center;
+}
+.author {
+  color: red;
+  font-size: 12px;
+}
+.author {
+  color: red;
+}
+p.author {
+  font-size: 12px;
+}
+.images {
+  image-orientation: landscape;
+  image-position: center;
+}
+.myinfo {
+  text-decoration-style: solid;
+  text-size: 16px;
+  text-align: left;
+
+}
+.photo {
+  border-radius: 40px;
+}
