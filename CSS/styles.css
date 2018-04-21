@@ -50,28 +50,23 @@ p.author {
 
 }
 .photo {
-  border-radius: 100px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: black;
+  border-radius: 110px;
   width: 50px;
-  z-index: 100;
-  display: inline;
-  float:none;
-  align-content: center;
-
 }
 .newinfo {
   color: red ;
 }
 .projects {
   color: black;
-  background-color: white;
-  float: right;
+  margin: auto;
+  background-color: black;
+  width: 500px;
+  text-align:justify;
+  color: white;
+  float; left;
   padding: 20px;
   font-style: italic;
+
 }
 li a {
   font-size:
