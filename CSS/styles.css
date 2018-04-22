@@ -15,7 +15,7 @@ body {
 h1{
     text-align: center;
     font-family: "Times New Roman", Times, serif;
-    color:black;
+    color:white;
 }
 .intro {
   font-style: italic;
@@ -66,7 +66,8 @@ p.author {
   float; left;
   padding: 20px;
   font-style: italic;
-
+  background-image: url("../Images/Progpic.png");
+  opacity: 0.8;
 }
 li a {
   font-size:
@@ -74,4 +75,7 @@ li a {
   font-family: cursive;
   font-weight:bold;
   background-color: Gold;
+}
+.port {
+  color: white;
 }
