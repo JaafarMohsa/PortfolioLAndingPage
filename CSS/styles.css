@@ -23,15 +23,9 @@ h1{
   text-size: 12px;
   text-align:center;
 }
-.author {
-  color: red;
-  font-size: 12px;
-}
-.author {
-  color: red;
-}
-p.author {
-  font-size: 12px;
+.myabout {
+  text-align: right;
+  font-size: 16;
 }
 .images {
   image-orientation: landscape;
