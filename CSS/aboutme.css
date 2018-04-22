@@ -1,0 +1,52 @@
+body{
+  background: url("../Images/IMG_E0274.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+
+}
+
+li a{
+  transition: all 1s ease;
+  border: solid 1.5px #80e5ff;
+  text-decoration: none;
+  background-color: #FFFFFF;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 25px;
+  color: #000000;
+}
+a:hover{
+  transition: all 1s ease;
+  background-color: #000000;
+  color: #80e5ff;
+  border: solid 1.5px #FFFFFF;
+  border-radius: 3px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 25px;
+}
+.aboutme{
+  margin: auto;
+  background-color: #FFFFFF;
+  padding: 10px;
+  border-radius: 5px;
+  width: 500px;
+  text-align: justify;
+  font-style: italic;
+  opacity: 0.7;
+}
+h1 {
+  color: black;
+}
+@media screen and (min-width:300px) and (max-width:600px) {
+  body{
+    background: url("../Images/Aboutme.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
