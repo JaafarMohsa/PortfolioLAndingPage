@@ -39,6 +39,8 @@ a:hover{
   text-align: justify;
   font-style: italic;
   opacity: 0.7;
+  float:none;
+  
 }
 h1 {
   color: black;
